@@ -1,1 +1,2 @@
 # Pizza-sales-analysis-using-SQL
+This SQL script provides a comprehensive analysis of pizza sales data. It includes queries to calculate total revenue by pizza type, identify popular toppings, determine busiest hours for sales, analyze sales by month, and compute average order value. By uploading this script to GitHub, users can easily access and utilize these analytical insights for further investigation or decision-making purposes.
